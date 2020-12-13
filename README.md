@@ -7,7 +7,7 @@ The instructions contained within this readme file should allow users to replica
 
 The files in this repository were used to configure the network depicted below.
 
-!(https://github.com/git-dmcintyre/elkproject/blob/main/Images/network_diagram.png?raw=true)
+!(https://raw.githubusercontent.com/git-dmcintyre/elkproject/main/Images/network_diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
